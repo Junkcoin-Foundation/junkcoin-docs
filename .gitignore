@@ -1,0 +1,24 @@
+# System files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editor files
+.vscode/
+*.swp
+*.tmp
+*.bak
+
+# Documentation builds
+_build/
+site/
+
+# Generated files
+*.pdf
+*.html
+*.png
+*.jpeg
+*.jpg
+
+# Temporary files
+tmp/
