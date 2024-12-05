@@ -36,7 +36,7 @@ We welcome contributions from the community! Here's how you can contribute:
 
 ## Formatting Rules
 Use Markdown for all documentation.
-Organize files into the appropriate directories (developer-guides, user-guides, etc.).
+Organize files into the appropriate directories (`developer-guides`, `user-guides`, etc.).
 For images or diagrams, place them in the assets/ folder and reference them in the Markdown file.
 
 ## License
