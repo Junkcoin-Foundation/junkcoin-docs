@@ -1,4 +1,4 @@
-# junkcoin-docs
+# Documentation (junkcoin-docs)
 This repository serves as the centralized hub for all documentation related to Junkcoin's development, ecosystem, and usage. It will include guides, API references, and contribution instructions to assist developers and the community.
 
 ## Contents
