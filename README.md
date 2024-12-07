@@ -8,6 +8,11 @@ The repository will be organized into the following sections:
 - **User Guides**: Tutorials for wallet setup, transaction handling, and community engagement.
 - **Contribution Guidelines**: Steps for contributing to Junkcoin's codebase and submitting improvements to the documentation.
 
+## Branches
+This repository uses the following branches:
+- `main`: Contains the stable and official documentation. Updates here have been reviewed and finalized.
+- `dev`: Used for ongoing updates, drafts, and testing new documentation. Changes in this branch may not be finalized.
+
 ## Structure
 The repository will be structured as follows:
 ```plaintext
@@ -21,18 +26,19 @@ The repository will be structured as follows:
 
 ## How to Use
 1. Clone the Repository: Clone this repository to your local machine to access the documentation files:
-
 ```bash
 git clone https://github.com/JunkcoinFoundation/junkcoin-docs.git
 cd junkcoin-docs
 ```
 2. Read the Documentation: Open any file in your preferred Markdown viewer, or browse the documentation directly from the GitHub interface.
 
+NOTE: If you are accessing the `dev` branch, be aware that the content may be incomplete or in progress.
+
 ## Contributing to Documentation
 We welcome contributions from the community! Here's how you can contribute:
 1. Fork the repository: Create a copy of this repository in your GitHub account.
 2. Make changes: Update or add documentation in the appropriate section.
-3. Submit a pull request: Propose your changes for review to be merged into the `main` branch.
+3. Submit a pull request: Propose your changes for review to be merged into the `dev` branch first. Once reviewed and approved, they will be merged into `main`.
 
 ## Formatting Rules
 Use Markdown for all documentation.
