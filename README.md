@@ -7,6 +7,7 @@ The repository will be organized into the following sections:
 - **API References**: Detailed documentation on Junkcoin's RPC commands and blockchain interactions.
 - **User Guides**: Tutorials for wallet setup, transaction handling, and community engagement.
 - **Contribution Guidelines**: Steps for contributing to Junkcoin's codebase and submitting improvements to the documentation.
+- **Assets**: Logos, Images or diagrams used in documentation.
 
 ## Branches
 This repository uses the following branches:
@@ -21,7 +22,7 @@ The repository will be structured as follows:
   ├── api-references/
   ├── user-guides/
   ├── contribution-guidelines.md
-  └── assets/ (images or diagrams used in documentation)
+  └── assets/
 ```
 
 ## How to Use
