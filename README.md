@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/Junkcoin-Foundation/junkcoin-docs/blob/main/assets/logos/logo-junkcoin-horizontal-2500px.png" alt="Junkcoin Logo" width="350"/>
+</p>
+
 # Documentation (junkcoin-docs)
 This repository serves as the centralized hub for all documentation related to Junkcoin's development, ecosystem, and usage. It will include guides, API references, and contribution instructions to assist developers and the community.
 
